@@ -19,6 +19,10 @@ function Home() {
         <Link to ="/register">
             <Button>Register</Button>
         </Link>
+        <h2>¿Ya eres usuari@ ?</h2>
+        <Link to ="/login">
+          <Button variant="success">Login</Button>
+        </Link>
         </Card.Body>
         </Card>
         </Container>
