@@ -22,11 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ____________________________________________________
 
-Dependencias Instaladas: 
-"dependencies": {
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
+# Dependencias Instaladas: 
+
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "browser-router": "^0.2.0",
@@ -38,9 +35,12 @@ Dependencias Instaladas:
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
 
-Rutas: 
+# Rutas: 
 http://localhost:3000 = HOME
+
 http://localhost:3000/Register = registro de usuarios
+
 http://localhost:3000/Login = Login del Usuario
+
 http://localhost:3000/NanoLink = Post del longLink y NanoLink pendiente de configuracion
 
